@@ -1,0 +1,11 @@
+# SEO settings
+title: Wordpress admin html
+description: "Wordpress admin for small project"
+keywords: "admin, simple, theme, free, download, SEO, blog, web"
+url: https://tiredbug.github.io
+baseurl: "/wp-admin-html-template"
+
+# Sass configuration
+sass:
+  sass_dir: assets/sass
+  style: expanded # expanded or compressed
